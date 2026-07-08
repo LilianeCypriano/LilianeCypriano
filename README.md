@@ -1,16 +1,25 @@
-## Hi there 👋
+## Olá! Eu sou a Liliane Cypriano 👋
 
-<!--
-**LilianeCypriano/LilianeCypriano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou formada em Arquitetura e Urbanismo e graduanda em Análise e Desenvolvimento de Sistemas, em transição para Tecnologia, com foco na área de UX/UI Design e desenvolvimento Front-end.
 
-Here are some ideas to get you started:
+Tenho experiência com levantamento de requisitos, suporte a sistemas, documentação técnica (KCS), registro de bugs, consultas SQL e desenvolvimento de interfaces utilizando Figma e Angular.
+Minha experiência reúne atendimento ao usuário, levantamento de requisitos, análise de processos, registro e acompanhamento de bugs, documentação em KCS, consultas em SQL Server e colaboração com equipes ágeis. Paralelamente, venho desenvolvendo projetos de UX/UI Design e Front-end, aplicando pesquisa com usuários, arquitetura da informação, wireframes, prototipação, design systems e desenvolvimento com HTML, CSS, JavaScript e Angular.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## Atualmente, tenho interesse em:
+- Designer de UX/UI
+- Product Designer
+- Desenvolvedor Front-end
+
+## Tecnologias e Ferramentas
+
+<p>
+🎨 <strong>Design:</strong> Figma, GetDemo e Miro<br>
+💻 <strong>Front-end:</strong> HTML, CSS, JavaScript, TypeScript, Angular, Bootstrap<br>
+🗄️ <strong>Banco de Dados:</strong> SQL Server<br>
+🔀 <strong>Versionamento:</strong> Git e GitHub<br>
+⚙️ <strong>Metodologias:</strong> Scrum e Kanban<br>
+🔧 <strong>Outras Ferramentas:</strong> Jira, Jira Service Management, Jenkins e Vindi
+</p>
+
+Atualmente, busco oportunidades como UX/UI Designer ou Desenvolvedora Front-end Júnior, contribuindo para o desenvolvimento de produtos digitais que gerem impacto positivo para usuários e negócios.
