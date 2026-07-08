@@ -8,8 +8,7 @@ Minha experiência reúne atendimento ao usuário, levantamento de requisitos, a
 
 ## Atualmente, tenho interesse em:
 - Designer de UX/UI
-- Product Designer
-- Desenvolvedor Front-end
+- Desenvolvedor Front-end Junior
 
 ## Tecnologias e Ferramentas
 
