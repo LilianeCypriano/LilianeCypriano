@@ -37,3 +37,12 @@ Minha experiência reúne atendimento ao usuário, levantamento de requisitos, a
 </p>
 
 Atualmente, busco oportunidades como UX/UI Designer ou Desenvolvedora Front-end Júnior, contribuindo para o desenvolvimento de produtos digitais que gerem impacto positivo para usuários e negócios.
+
+<br>
+## 🤝 Conecte-se comigo
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/LilianeCypriano/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+</p>
