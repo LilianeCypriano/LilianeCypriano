@@ -42,7 +42,7 @@ Atualmente, busco oportunidades como UX/UI Designer ou Desenvolvedora Front-end 
 ## Conecte-se comigo
 
 <p align="left">
-  <a href="[https://www.linkedin.com/in/LilianeCypriano/](https://www.linkedin.com/in/liliane-cypriano-3576a5279/)" target="_blank">
+  <a href="https://www.linkedin.com/in/liliane-cypriano-3576a5279/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
 </p>
